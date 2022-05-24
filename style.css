@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: yellow;
+    font-family: 'Arvo', serif;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px,5px,5px rgb(151,149,149);
+}
+
+
+.main_div button{
+    font-family: 'Arvo', serif;
+    color: blue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
